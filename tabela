@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="pt-BR"  >
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="https://www.pngitem.com/pimgs/m/521-5211149_skeleton-trumpet-vaporwave-aesthetic-trumpet-vaporwave-hd-png.png">
+      <link  rel="icon" href="https://images.fineartamerica.com/images/artworkimages/medium/2/aesthetic-vaporwave-pink-palm-tree-dc-designs-suamaceir-transparent.png">
+    <title>Tabela</title>
+   <style> body {
+      margin: 0%;
+      padding: 0%;
+      background-color: #082767;
+      background-image: url(https://i.pinimg.com/originals/67/d0/32/67d0329ea4004979ec3b37d067da6528.gif);
+      background-repeat:no-repeat;
+      background-size: cover;
+      background-position:center;
+      background-attachment:fixed;
+      text-shadow:#000001;
+      color:#ffffff;
+      overflow: hidden; 
+      background-size:100%;
+      display: table;
+      width: 100vw;
+      height: 100vh; 
+        }
+      p {
+        background-color: red;
+        padding: 10px;
+        color: #000000;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 30px;
+        font-family: arial, Fantasy;
+        text-shadow: 2px 4px #C0C0C0
+      }
+      img {
+        width: 100px;
+        height: 100px;
+        margin-right:150; 
+        margin-left:150;
+      }
+      h5{
+        color:#e208ff;
+        background-color:#53036e;
+        text-shadow:#000001;
+        text-align: center;
+      }
+      h4{
+        text-shadow: 2px 1px #030202;
+      }
+      h3{
+        text-decoration:underline;
+      }
+      iframe{
+        border-radius: 40px;
+      }
+      button{
+        background-color: black;
+        color: whitesmoke;
+      }
+          table,tr,td{
+            border: 1px solid black ; 
+            color:whitesmoke ;
+         }
+        
+        #titletab, #daytab{
+            text-align: center;
+        }
+        #art{
+            background-color: red;
+        }
+        #fil{
+            background-color: hotpink;
+        }
+        #bd{
+            background-color: indianred;
+        }
+        #hist{
+            background-color: rgb(101, 202, 0);
+        }
+        #mat{
+            background-color: red;
+        }
+        #port{
+          background-color:rgb(60, 168, 240) ;
+        }
+        #bio{ 
+          background-color: rgb(0, 100, 0);
+        }
+        #fi{
+          background-color: rgb(0, 0, 231);
+        }
+        #ed{
+          background-color: rgb(104, 29, 29);
+        }
+        #aps{
+          background-color: rgb(136, 34, 119);
+        }
+        #pw{
+          background-color: rgb(15, 189, 117);
+        }
+        #ing{
+          background-color: rgb(202, 98, 98);
+        }
+        #geo{
+          background-color: rgb(104, 151, 34);
+        }
+        #dd{
+          background-color: pink;
+        }
+        #tpa{
+          background-color: rgb(179, 13, 90);
+        }
+        #quim{
+          background-color: rgb(177, 177, 1);
+        }
+        #ed{
+          background-color: rgb(123, 189, 158);
+        }
+        #fis{
+          background-color: rgb(134, 163, 95);
+        }
+        #intervalo{
+          text-align: center; 
+    vertical-align: middle;
+        }
+        #butao {background-color: #131313;
+            border-color: #c0c0c0 2px;
+            color:#d8d8d8;
+        }
+          </style> 
+       </head>
+  <body>
+<script>
+  function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  
+  }
+</script>
+<center>
+  <h5>De play em quanto esta no site (melhor experiencia)</h5>  </center>
+<center>
+<iframe width="350" height="25" src="https://www.youtube.com/embed/qqfMAf3IFE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<br/><br/><br/>
+
+<a target="_blank" id="botao" href='http://meusite.42web.io/vaporwave/vaporwave.html' class="button">Voltar</a>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<table>
+  <tr>
+    <td>horario</td>
+    <td>SEGUNDA-FEIRA</td>
+    <td>TERÇA-FEIRA</td>
+    <td>QUARTA-FEIRA</td>
+    <td>QUINTA-FEIRA</td>
+    <td>SEXTA-FEIRA</td>
+  </tr>
+  <tr>
+    <td>08h00-08h50</td>
+    <td id="art">ARTES</td>
+    <td id="port">PORT</td>
+    <td id="art">ARTES</td>
+    <td id="ed">ED.FÍS</td>
+    <td id="fis">FÍS</td>
+  </tr>
+  <tr>
+    <td>08h50-09h40</td>
+    <td id="art">ARTES</td>
+    <td id="port">PORT</td>
+    <td id="fil">FILO</td>
+    <td id="ed">ED.FÍS</td>
+    <td id="fis">FÍS</td>
+  </tr>
+  <tr>
+    <td id="intervalo" colspan="6">INTERVALO 09h40-10h00</td>
+  </tr>
+  <tr>
+    <td>10h00-10h50</td>
+    <td id="fil">FILO</td>
+    <td id="aps">APS</td>
+    <td id="geo">GEO</td>
+    <td id="dd">DD</td>
+    <td id="geo">GEO</td>
+  </tr>
+  <tr>
+    <td>10h50-11h40</td>
+    <td id="bd">BD</td>
+    <td id="aps">APS</td>
+    <td id="pw">PW 1</td>
+    <td id="dd">DD</td>
+    <td id="tpa">TPA</td>
+  </tr>
+  <tr>
+    <td>11h40-12h30</td>
+    <td id="bd">BD</td>
+    <td id="mat">MAT</td>
+    <td id="pw">PW 1</td>
+    <td id="ing">ING</td>
+    <td id="tpa">TPA</td>
+  </tr>
+  <tr>
+    <td id="intervalo" colspan="6">INTERVALO 12h30-13h30</td>
+  </tr>
+  <tr>
+    <td>13h30-14h20</td>
+    <td id="hist">HIST</td>
+    <td id="mat">MAT</td>
+    <td id="fi">FI</td>
+    <td id="ing">ING</td>
+    <td id="tpa">TPA</td>
+  </tr>
+  <tr>
+    <td>14h20-15h10</td>
+    <td id="hist">HIST</td>
+    <td id="bio">BIO</td>
+    <td id="fi">FI</td>
+    <td id="port">PORT</td>
+    <td id="quim">QUIM</td>
+  </tr>
+  <tr>
+    <td>15h10-16h00</td>
+    <td id="mat">MAT</td>
+    <td id="bio">BIO</td>
+    <td id="mat">MAT</td>
+    <td id="port">PORT</td>
+    <td id="quim">QUIM</td>
+  </tr>
+</table>
+</center>
+</div>
+  </body>
+</html>
